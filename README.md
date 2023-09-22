@@ -1,9 +1,9 @@
-###Sally Abd Al-Hafeez
+#Sally Abd Al-Hafeez
 Hello World! 👋, 
 I'm Sally a full-stack developer who blends creativity with code to bridge the gap between technology and human interaction.
 
 ##Skills: 
-###Front-end Web Development:
+##Front-end Web Development:
 1. HTML
 2. CSS
 3. JavaScript
@@ -11,11 +11,11 @@ I'm Sally a full-stack developer who blends creativity with code to bridge the g
 5. React (JavaScript library for building user interfaces)
 6. Flutter (Dart-based framework for building mobile apps)
 
-###Mobile App Development:
+##Mobile App Development:
 1. Flutter (Dart-based framework for building mobile apps)
 2. Java (for Android app development)
 
-###Back-end Web Development:
+##Back-end Web Development:
 1. PHP (Server-side scripting language)
 2. SQL (Structured Query Language for database operations)
 3. Laravel (PHP web application framework)
