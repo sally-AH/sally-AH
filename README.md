@@ -1,7 +1,7 @@
 # Sally Abd Al-Hafeez
-**`Full-Stack Developer`**
+
 Hello World! 👋, 
-I'm a developer who blends creativity with code to bridge the gap between technology and human interaction.
+I'm a **`Full-Stack Developer`** who blends creativity with code to bridge the gap between technology and human interaction.
 
 ##Skills: 
 ##Front-end Web Development:
