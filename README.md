@@ -26,6 +26,7 @@ a passionate software developer who blends creativity with code to bridge the ga
 10. React (JavaScript library for building user interfaces) <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
+
 ##### Database Management:
 
 1. SQL (Structured Query Language) <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" />
