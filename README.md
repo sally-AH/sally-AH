@@ -3,7 +3,7 @@
 
 Hello World! 👋, Welcome to My GitHub Profile!
 
-a passionate software developer who blends creativity with code to bridge the gap between technology and human interaction. I believe in the power of technology to solve real-world problems and positively impact society. I'm interested in web development, data science, machine learning, and Artificial Intelligence.
+A passionate software developer who blends creativity with code to bridge the gap between technology and human interaction. I believe in the power of technology to solve real-world problems and positively impact society. I'm interested in web development, data science, machine learning, and Artificial Intelligence.
 
 ---
 ### 🔧 Languages and Tools
