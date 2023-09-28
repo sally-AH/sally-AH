@@ -40,12 +40,14 @@ A passionate software developer who blends creativity with code to bridge the ga
 
 2. Dart (Programming language used with Flutter) <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
-3. Java (Android app development) <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+3. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  Android app development
+
 
 ##### General-Purpose Programming:
 
-1.Python <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+1. Python <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
+2. Java <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 #
 ### 🌟 What I'm Currently Working On:
 - 🌱 I’m currently working on a full-stack web and mobile application using Flutter, Laravel, React, and Node.js. I'm also diving into machine learning to explore predictive analytics.
