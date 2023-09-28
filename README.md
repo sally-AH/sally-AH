@@ -64,7 +64,8 @@ I believe in continuous learning. I'm always excited to explore new technologies
 I'm open to collaboration and networking with fellow developers, so feel free to reach out. 
 You can also find me on :
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sally-AH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sally-abd-alhafeez/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sallydika0)  
+<a href="https://www.linkedin.com/in/sally-abd-alhafeez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sally-abdalhafeez" height="30" width="40" /></a>
+ 
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
